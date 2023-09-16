@@ -1,0 +1,26 @@
+{
+  
+  "default_prefix": "?",
+    "owners": "",
+    "emoji": {
+        "play": "▶️",
+        
+   "guildid": "",
+   
+ "YOUTUBE_API_KEY": "",
+ "premium": "",
+ "PREFIX": "?",
+ "dev": "",
+ "mongodb": "",
+ "database": "",
+ "BOT_ID": "",
+ "embedcolor": "BLUE",
+ "EMOJI_ARROW":"🔄",
+ "WELCOME_CHANNEL": "",
+    "QUEUE_LIMIT": 2,
+    "owners": "",
+    "AME_API": "",
+    "COLOR": "00FFFF",
+    "mongourl": ""
+}
+}
